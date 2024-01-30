@@ -1,0 +1,226 @@
+SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)SRA_LSTM_M(
+  (inputLayer): Linear(in_features=2, out_features=32, bias=True)
+  (rela_encoder): RelationEncoder(
+    (relative_embedding): Linear(in_features=2, out_features=32, bias=True)
+    (relation_encoder): LSTMCell(32, 64)
+    (ac): ReLU()
+    (dropout): Dropout(p=0.5, inplace=False)
+  )
+  (social_model): SocialInteraction(
+    (attention): Linear(in_features=192, out_features=1, bias=True)
+  )
+  (cell): LSTMCell(96, 64)
+  (outputLayer): Linear(in_features=80, out_features=2, bias=True)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (input_Ac): ReLU()
+)
